@@ -9,4 +9,4 @@
 >
 > 목표 : Python 기본 문법과 문제풀이 방법 익히기
 
-- [Python] 기초 100제
+- [[Python] 기초 100제](https://github.com/dsunni/problem-solving/tree/master/Codeup/[Python]Basic_100)
