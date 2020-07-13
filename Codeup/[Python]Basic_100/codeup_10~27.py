@@ -59,5 +59,4 @@ print(int(b))
 
 # 1027
 a = input().split('.')
-for i in reversed(a):
-    print(i, sep="-")
+print('-'.join(reversed(a)))
